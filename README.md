@@ -1,4 +1,3 @@
 ```
-npm run build
-cp -r out ~/Documents/GitHub/
+npm run build && cp -r out ~/Documents/GitHub/
 ```
