@@ -1,3 +1,1 @@
-```
-npm run build && cp -r out ~/Documents/GitHub/
-```
+This is Daopeng's homepage
