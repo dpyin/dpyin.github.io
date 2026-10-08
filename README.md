@@ -1,3 +1,1 @@
-```
-npm run build && cp -r out ~/Documents/GitHub/
-```
+[https://dpyin.github.io/](https://dpyin.github.io/)
