@@ -55,12 +55,95 @@ f:I[4911,[],"AsyncMetadataOutlet"]
       root.lang = 'en';
       root.setAttribute('data-locale', 'en');
     }
-  0:{"P":null,"b":"iKJc63aaEzJbOdRhMyhx-","p":"","c":["","teaching",""],"i":false,"f":[[["",{"children":[["slug","teaching","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ebb5513b491e0b4f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"font","type":"font/woff2","href":"https://jialeliu.com/fonts/georgiab.woff2","crossOrigin":""}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":true,"locales":["zh","en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":true,"switcher":true,"labels":{"zh":"中文","en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"Biography","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Projects","type":"page","target":"projects","href":"/projects"},{"title":"Teaching","type":"page","target":"teaching","href":"/teaching"},{"title":"Misc","type":"page","target":"misc","href":"/misc"}],"siteTitle":"Daopeng Yin","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"zh":[{"title":"简介","type":"page","target":"about","href":"/"},{"title":"论文","type":"page","target":"publications","href":"/publications"},{"title":"项目","type":"page","target":"projects","href":"/projects"},{"title":"教学","type":"page","target":"teaching","href":"/teaching"},{"title":"其他","type":"page","target":"misc","href":"/misc"}],"en":[{"title":"Biography","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Projects","type":"page","target":"projects","href":"/projects"},{"title":"Teaching","type":"page","target":"teaching","href":"/teaching"},{"title":"Misc","type":"page","target":"misc","href":"/misc"}]},"siteTitleByLocale":{"zh":"印道鹏","en":"Daopeng Yin"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"2026.10","lastUpdatedByLocale":{"zh":"2026年10月","en":"2026.10"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","teaching","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","FEegM2BcOs0RMRhRpTXbt",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+  0:{"P":null,"b":"CLpkWoM8JKLmeIAeBCHaP","p":"","c":["","teaching",""],"i":false,"f":[[["",{"children":[["slug","teaching","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/ebb5513b491e0b4f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"scroll-smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"icon","href":"/favicon.svg","type":"image/svg+xml"}],["$","link",null,{"rel":"dns-prefetch","href":"https://jialeliu.com"}],["$","link",null,{"rel":"preconnect","href":"https://jialeliu.com","crossOrigin":""}],["$","link",null,{"rel":"preload","as":"font","type":"font/woff2","href":"https://jialeliu.com/fonts/georgiab.woff2","crossOrigin":""}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n              try {\n                const theme = localStorage.getItem('theme-storage');\n                const parsed = theme ? JSON.parse(theme) : null;\n                const setting = parsed?.state?.theme || 'system';\n                const prefersDark = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;\n                const effective = setting === 'dark' ? 'dark' : (setting === 'light' ? 'light' : (prefersDark ? 'dark' : 'light'));\n                var root = document.documentElement;\n                root.classList.add(effective);\n                root.setAttribute('data-theme', effective);\n              } catch (e) {\n                var root = document.documentElement;\n                root.classList.add('light');\n                root.setAttribute('data-theme', 'light');\n              }\n            "}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"config":{"enabled":true,"locales":["zh","en"],"defaultLocale":"en","mode":"auto","fixedLocale":"en","persist":true,"switcher":true,"labels":{"zh":"中文","en":"English"}},"children":[["$","$L5",null,{"items":[{"title":"Biography","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Projects","type":"page","target":"projects","href":"/projects"},{"title":"Teaching","type":"page","target":"teaching","href":"/teaching"},{"title":"Misc","type":"page","target":"misc","href":"/misc"}],"siteTitle":"Daopeng Yin","enableOnePageMode":false,"i18n":"$0:f:0:1:1:props:children:1:props:children:1:props:children:props:children:props:config","itemsByLocale":{"zh":[{"title":"简介","type":"page","target":"about","href":"/"},{"title":"论文","type":"page","target":"publications","href":"/publications"},{"title":"项目","type":"page","target":"projects","href":"/projects"},{"title":"教学","type":"page","target":"teaching","href":"/teaching"},{"title":"其他","type":"page","target":"misc","href":"/misc"}],"en":[{"title":"Biography","type":"page","target":"about","href":"/"},{"title":"Publications","type":"page","target":"publications","href":"/publications"},{"title":"Projects","type":"page","target":"projects","href":"/projects"},{"title":"Teaching","type":"page","target":"teaching","href":"/teaching"},{"title":"Misc","type":"page","target":"misc","href":"/misc"}]},"siteTitleByLocale":{"zh":"印道鹏","en":"Daopeng Yin"}}],["$","main",null,{"className":"min-h-screen pt-16 lg:pt-20","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L8",null,{"lastUpdated":"2026.10","lastUpdatedByLocale":{"zh":"2026年10月","en":"2026.10"},"defaultLocale":"en"}]]}]}]}]]}]]}],{"children":[["slug","teaching","d"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",["$","$La",null,{"children":"$Lb"}],null,["$","$Lc",null,{"children":["$Ld","$Le",["$","$Lf",null,{"promise":"$@10"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","LiNBLHKbATcrMVp_3h8Xk",{"children":[["$","$L11",null,{"children":"$L12"}],null]}],null]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
 14:"$Sreact.suspense"
 15:I[4911,[],"AsyncMetadata"]
 17:I[2382,["461","static/chunks/461-a9a5d7b05a71d978.js","976","static/chunks/976-e8962816363c782f.js","748","static/chunks/748-437129fa6947876c.js","182","static/chunks/app/%5Bslug%5D/page-711566cccbc67f15.js"],"default"]
 b:["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]
-9:["$","$L17",null,{"dataByLocale":{"zh":{"type":"card","config":{"type":"card","title":"教学","description":"我曾参与授课或助教的课程。","items":[{"title":"计算方法","subtitle":"","date":"2021秋 & 2025秋于西安交大","content":"监考与试卷批改","tags":["助教","研究生公共课程"]},{"title":"工程优化","subtitle":"","date":"2025春于西安交大","content":"作业批改、监考、试卷批改","tags":["助教","研究生公共课程"]}]}},"en":{"type":"card","config":{"type":"card","title":"Teaching","description":"Courses I have taught or assisted with.","items":[{"title":"Computational Methods","subtitle":"","date":"2021 Fall & 2025 Fall at XJTU","content":"Exam invigilation and paper marking","tags":["Teaching Assistant","Graduate","general courses"]},{"title":"Engineering Optimization","subtitle":"","date":"2025 Spring at XJTU","content":"Grading assignments, proctoring exams, and grading examinations","tags":["Teaching Assistant","Graduate"," general courses"]}]}}},"defaultLocale":"en"}]
+18:T5a9,
+<!-- <!DOCTYPE html>
+<html lang="zh-CN"> -->
+<head>
+  <!-- <meta charset="UTF-8"> -->
+  <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+  <!-- <title>Research Details</title> -->
+
+  <style>
+    body {
+      max-width: 850px;
+      margin: 60px auto;
+      padding: 0 24px;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+                   "Noto Sans SC", sans-serif;
+      line-height: 1.8;
+      color: #333;
+    }
+
+    h1, h2 {
+      font-weight: 800;
+    }
+
+    a {
+      color: #7952b3;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    details {
+      margin: 20px 0;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 14px 18px;
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    details[open] summary {
+      margin-bottom: 12px;
+    }
+
+    .back {
+      margin-bottom: 30px;
+      display: inline-block;
+    }
+  </style>
+</head>
+
+<body>
+   <details>
+    <summary>无</summary>
+    <p>
+无
+    </p>
+  </details>
+
+  <details>
+    <summary>无</summary>
+    <p>
+无
+    </p>
+  </details>
+
+  <details>
+    <summary>助教</summary>
+    <p>
+<ul>
+  <li>计算方法（西交研究生公共课）- 2025年秋 </li>
+  <li>工程优化（西交研究生公共课）- 2025年春 </li>
+  <li>计算方法（西交研究生公共课）- 2021年秋 </li>
+</ul>
+    </p>
+  </details>
+</body>
+<!-- </html> -->
+
+9:["$","$L17",null,{"dataByLocale":{"zh":{"type":"text","config":{"type":"text","title":"教学","description":"我曾参与授课或助教的课程。","source":"teaching.md"},"content":"$18"},"en":{"type":"card","config":{"type":"card","title":"Teaching","description":"Courses I have taught or assisted with.","items":[{"title":"Computational Methods","subtitle":"","date":"2021 Fall & 2025 Fall at XJTU","content":"Exam invigilation and paper marking","tags":["Teaching Assistant","Graduate","general courses"]},{"title":"Engineering Optimization","subtitle":"","date":"2025 Spring at XJTU","content":"Grading assignments, proctoring exams, and grading examinations","tags":["Teaching Assistant","Graduate"," general courses"]},{"title":"Numerical Analysis","subtitle":"Teaching Assistant","date":"20XX Fall at XXX","content":"[[chp1](/notes/note1_numerical_analysis.md)]","tags":["Graduate","general courses"]}]}}},"defaultLocale":"en"}]
 e:null
 12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 d:null
